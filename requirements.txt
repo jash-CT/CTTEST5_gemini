@@ -1,0 +1,8 @@
+Flask
+Flask-WTF
+Flask-Talisman
+Flask-SQLAlchemy
+Flask-Login
+argon2-cffi
+pydantic
+email-validator
